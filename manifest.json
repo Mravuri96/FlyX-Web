@@ -1,6 +1,6 @@
 {
-    "name": "FlyXWebSource",
-    "short_name": "FlyXWebSource",
+    "name": "FlyXAppSource",
+    "short_name": "FlyXAppSource",
     "start_url": ".",
     "display": "minimal-ui",
     "background_color": "#0175C2",
